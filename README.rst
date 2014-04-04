@@ -5,4 +5,3 @@ This is a python daemon that provides a simple, unified http interface for query
 
 Requirements
 ------------
-* Tornado
